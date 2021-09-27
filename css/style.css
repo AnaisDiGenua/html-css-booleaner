@@ -58,3 +58,31 @@ th {
 .lightblue {
     background-color: #98d7ed;
 }
+
+/* suggerimenti */
+h3 {
+    color: gray;
+}
+
+.suggerimento-uno {
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
+.suggerimento-due {
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 5px;
+}
