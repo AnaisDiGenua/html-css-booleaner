@@ -30,3 +30,31 @@
 .date {
     font-size: 12px;
 }
+
+/* articolo */
+.yellow {
+background-color: yellow;
+}
+
+/* tabella */
+.grandezza1 {
+    width: 25%;
+}
+
+.grandezza2 {
+    width: 25%;
+}
+
+.grandezza3 {
+    width: 50%;
+}
+
+th {
+    text-align: left;
+    color: white;
+    background-color: #20a9e5;
+}
+
+.lightblue {
+    background-color: #98d7ed;
+}
