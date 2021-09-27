@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* banner e logo */
+.logo {
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.banner {
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-position: top;
+    margin-bottom: 30px;
+}
+
+/* titolo */
+.title {
+    font-size: 30px;
+}
+
+/* article credits */
+.grey {
+    color: grey;
+}
+
+.blue {
+    color: #20a9e5;
+}
+
+.date {
+    font-size: 12px;
+}
